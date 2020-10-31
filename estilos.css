@@ -1,0 +1,30 @@
+body{
+	background: lightgray;
+	font-family: sans-serif;
+	margin: 10px;
+}
+
+h1{
+	text-align: center;
+	letter-spacing: 10px;
+	font-size: 300%
+}
+
+h2{
+	text-align: justify;
+	background: gray;
+	color: white;
+}
+
+img{
+	float:left;
+}
+
+p{
+	text-indent: 30px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+
